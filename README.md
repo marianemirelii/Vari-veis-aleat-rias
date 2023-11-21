@@ -1,2 +1,2 @@
-# Vari-veis-aleat-rias
+# Variáveis-aleatórias
 Atividade de probabilidade.
